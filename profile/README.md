@@ -11,6 +11,7 @@ The members are encouraged to use this GitHub organization to create, share, and
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
 
+- [Software Project Management 2024 - Project & Repos](https://github.com/ttpu/spm2024_final_projects)
 
 ---------------------------------------------------------------------------------------
 ## Contact info:
